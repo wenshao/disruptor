@@ -13,3 +13,7 @@ code
 templib
 SConstruct
 .*dblite
+/target
+/.settings
+/.classpath
+/.project
